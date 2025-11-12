@@ -885,7 +885,7 @@ export default function CameraScroll(props) {
 
         <group >
             <Text
-                ref={generativeaiCertificationTextRef1}
+                ref={threejsCertificationTextRef1}
                 font="./fonts/Bangers.ttf"
                 position={[-0.5, 3.1, -1.4]}
                 fontSize={0.1}
