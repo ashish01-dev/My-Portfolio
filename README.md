@@ -1,5 +1,6 @@
 # My Web House Portfolio
 
+![alt text](example.png)
 
 ### Welcome to my portfolio
 
